@@ -1,0 +1,12 @@
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\bin\Debug\Client.exe.config
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\bin\Debug\Client.exe
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\bin\Debug\Client.pdb
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.ClientBoxchat.resources
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.ConnectToServer.resources
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.exe
+E:\Microsoft Visual Studio\hehe\Superboxchat\ServerBoxchat\Client\obj\Debug\Client.pdb
