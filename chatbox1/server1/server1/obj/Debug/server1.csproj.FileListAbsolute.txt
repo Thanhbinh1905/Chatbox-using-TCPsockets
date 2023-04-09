@@ -1,0 +1,11 @@
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\bin\Debug\server1.exe.config
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\bin\Debug\server1.exe
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\bin\Debug\server1.pdb
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.csproj.AssemblyReference.cache
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.csproj.SuggestedBindingRedirects.cache
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.Form1.resources
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.Properties.Resources.resources
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.exe
+E:\Microsoft Visual Studio\hehe\chatbox1\server1\server1\obj\Debug\server1.pdb
